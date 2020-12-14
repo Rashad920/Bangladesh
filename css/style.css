@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: green;
+}
+
+.head_color {
+    background: rgb(5, 143, 5);
+}
+
+header nav ul li div {
+    background: green;
+}
+
+header .textColor {
+    font-size: 40px;
+    color: red;
+    border-bottom: none;
+}
+
+header nav ul li a {
+    font-size: 18px;
+}
+
+header nav ul li .text-danger:hover {
+    color: white!important;
+    transition: all .3s ease;
+}
+
+
+/* 
+header {
+    overflow: hidden;
+}
+
+header .overflow {
+    overflow: hidden;
+} */
+
+header nav ul li a {
+    font-weight: bold;
+    color: red;
+}
+
+header nav ul li a:hover {
+    color: white;
+}
+
+.hero_area {
+    width: 100%;
+}
+
+.hero_area img {
+    width: 100%;
+    height: 100vh;
+}
+
+.hero_area h5 {
+    font-size: 36px;
+}
+
+.hi {
+    color: transparent;
+}
+
+.history .img img,
+.উপক্রমণিকা .img img {
+    background-size: cover;
+    background-position: center;
+    width: 525px;
+    height: 700px;
+}
+
+.আমাদেরনায়করা .bgg {
+    height: 85vh;
+}
+
+.আমাদেরনায়করা .border_btm {
+    border-bottom: 3px solid red;
+}
+
+.আমাদেরনায়করা .img img {
+    width: 350px;
+    height: 440px;
+}
+
+.history .second_row img {
+    width: 100%;
+}
+
+.bg {
+    background: rgb(247 247 247);
+}
+
+.পটভূমি img {
+    width: 100%;
+}
+
+.গ্যালারি {
+    background: rgb(247 247 247);
+}
+
+.গ্যালারি img {
+    width: 100%;
+    height: 250px;
+}
+
+span {
+    border-bottom: 2px solid red;
+}
+
+footer {
+    background: url("../img/footer_top_img.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+}
+
+footer ul li {
+    list-style-type: none;
+}
+
+footer ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+footer h5 {
+    color: red;
+    font-weight: bold;
+}
