@@ -115,8 +115,12 @@ header nav ul li a:hover {
     height: 250px;
 }
 
-span {
+.আমাদের_বাকি_নায়করা span {
     border-bottom: 2px solid red;
+}
+
+.আমাদের_বাকি_নায়করা .imgs {
+    overflow: hidden;
 }
 
 footer {
